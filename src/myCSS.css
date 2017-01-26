@@ -1,0 +1,17 @@
+.small-text{
+    font-size: 10px;
+}
+
+.button-border{
+    border: solid white;
+    border-radius: 5px;
+    border-width: 1px;
+}
+
+span {
+    font-size: 18px;
+}
+
+h1 {
+    font-size: 60px;
+}
